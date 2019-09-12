@@ -2,7 +2,7 @@ function nii=bramila_fixOriginator(targetimg,refimg)
 % Usage:
 %   targetimg='/m/nbe/scratch/braindata/something.nii'
 %   refimg='/m/nbe/scratch/braindata/shared/toolboxes/HarvardOxford/MNI152_T1_2mm_brain.nii';
-%   nii=fixOriginator(targetimg,refimg);
+%   nii=bramila_fixOriginator(targetimg,refimg);
 %   save_nii(nii,filename);
 %
 
